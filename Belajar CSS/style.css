@@ -1,24 +1,28 @@
-.nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+.para {
+    color:blue;
+    background-color: cornflowerblue;
+    margin: 20px;
+    border: 1px darkgray;
+    padding: 25px;
+    font-style: oblique;
+    font-size: medium;
 }
 
-.nav li {
-    float: left;
+.para-eksternal {
+    color:deeppink;
+    background-color: darksalmon;
+    padding: 25px;
+    font-size: medium;
+    font-style: oblique;
 }
 
-.nav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+.box {
+    border: 2cm;
+    height: 35px;
+    width: 45px; 
+    padding: 25px;
+    color:coral;
+    background-color: burlywood;
+    font-size: medium;
+    font-style: oblique;
 }
-
-.nav li a:hover {
-    background-color: #111;
-}
-

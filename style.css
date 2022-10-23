@@ -1,28 +1,22 @@
-.para {
-    color:blue;
-    background-color: cornflowerblue;
-    margin: 20px;
-    border: 1px darkgray;
-    padding: 25px;
-    font-style: oblique;
-    font-size: medium;
+.Ana.jpeg {
+    width: 25px;
+    height: 15px;
+    object-fit: cover;
 }
 
-.para-eksternal {
-    color:deeppink;
-    background-color: darksalmon;
-    padding: 25px;
-    font-size: medium;
-    font-style: oblique;
+.title {
+    font-family: 'Raleway', sans-serif;
 }
 
-.box {
-    border: 2cm;
-    height: 35px;
-    width: 45px; 
-    padding: 25px;
-    color:coral;
-    background-color: burlywood;
-    font-size: medium;
-    font-style: oblique;
+.subtitle {
+    letter-spacing: 10cm;
+}
+
+.hero {
+    height: 95vh;
+}
+
+.text-about {
+    text-indent: 50px;
+    text-align: justify;
 }
